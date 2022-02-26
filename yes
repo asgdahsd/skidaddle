@@ -1,0 +1,7 @@
+if game.PlaceId == 155615604 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/asgdahsd/skidaddle/main/skidaddle"),true))()
+end
+
+if game.PlaceId == 8849613480 then
+  loadstring(game:HttpGet("onikami"),true))()
+end
